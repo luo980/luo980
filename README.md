@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on IoT Management Research
+- 🌱 I’m currently learning techs of compile method
+- 👯 I’m looking to collaborate on who interests in orchestering IoT devices in semantic ways.
+- 🤔 I’m looking for help with function signature problems.
+- 💬 Ask me about everything in CS, I will try to use my wit handle that.
+- 📫 How to reach me: like Wechat, QQ, comment my blog: blog.luo980.com
+- 😄 Pronouns: he
+- ⚡ Fun fact: I'm losing weight~
