@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: like Wechat, QQ, comment my blog: blog.luo980.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I'm losing weight~
+- I'm good at CS, Computer Science and Counter Strike.
