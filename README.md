@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+- 🏫 I'm current
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on IoT Management Research
+- 🏫 I'm currently study at Harbin Institute of Technology
+- 🔭 I’m currently working on IoT Management Research Area
 - 🌱 I’m currently learning techs of compile method
 - 👯 I’m looking to collaborate on who interests in orchestering IoT devices in semantic ways.
 - 🤔 I’m looking for help with function signature problems.
