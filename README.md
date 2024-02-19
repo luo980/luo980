@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on who interests in orchestering IoT devices in semantic ways.
 - 🤔 I’m looking for help with function signature problems.
 - 💬 Ask me about everything in CS, I will try to use my wit handle that.
-- 📫 How to reach me: like Wechat, QQ, comment my blog: blog.luo980.com
+- 📫 How to reach me: like Wechat, QQ, comment my blog: www.luo980.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: I'm losing weight~
 - I'm good at CS, Computer Science and Counter Strike.
